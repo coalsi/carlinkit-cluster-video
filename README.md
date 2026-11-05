@@ -31,6 +31,9 @@ or endorsed by Carlinkit or Apple.
 | Phone | iPhone, wireless CarPlay |
 | Host | macOS, Python 3 |
 
+The results below came from the probe this script was cleaned up from. Its messages
+are pinned by offline tests, but this exact script has not yet run on an adapter.
+
 That is one adapter on one firmware. Other models and versions are untried, and
 so are wired CarPlay and Linux. Run `info` first and compare.
 
