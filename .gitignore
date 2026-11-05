@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Captures show your live location on the map.
+*.h264
+*.png
+*.log
